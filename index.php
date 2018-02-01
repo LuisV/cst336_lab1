@@ -30,7 +30,7 @@ in html
         
         <nav>
             <hr width= 50%/>
-            <a href="index.html"><strong> <i>Home</i> </strong></a>
+            <a href="index.php"><strong> <i>Home</i> </strong></a>
             <a href = "about.html">About</a>
             <a href = "contact.html"> Contact</a>
         </nav>
