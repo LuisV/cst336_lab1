@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+    color: gray;
+
+}
+
+header,
+main,
+nav,
+footer {
+        text-align: center;
+}
+
+nav a{
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+#csumb {
+    width: 50%;
+}
+#me, img {
+    width: 100%
+}
+#me, #welcomeText {
+    float: left;
+    width: 40%;
+}
+
+#welcomeText{
+    text-align: left;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+footer {
+    clear: both;
+    font-size: 10px;
+    color: pink;
+    
+}
+
+table {
+    margin: 0px auto;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+td strong {
+    color: orange;
+}
+
+#table-header {
+    background-color: #351a00;
+}
+
+.table-row {
+    background-color: #753900;
+}
+
+ul {
+    text-align: left;
+    padding-left: 200px;
+}
+
+.hobby {
+    color: turquoise;
+}
+
+#form {
+   height: 1100px;
+   width: 100%;
+}
+
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 5em;
+    margin-bottom: 0px;
+}
