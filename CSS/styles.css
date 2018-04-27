@@ -40,6 +40,10 @@ nav a:hover {
     text-align: left;
     font-size: 20px;
     text-decoration: none;
+    color: white;
+    font-family: Arial;
+    display: relative;
+    margin-top: 20px;
 }
 
 footer {
@@ -82,9 +86,22 @@ ul {
    height: 1100px;
    width: 100%;
 }
-
+#game {
+    height:625px;
+    width: 100%;
+}
+#content {
+    text-align: left;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: arial;
+    font-size: 20px;
+    color:white;
+    
+}
 h1 {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed';
     font-size: 5em;
     margin-bottom: 0px;
 }

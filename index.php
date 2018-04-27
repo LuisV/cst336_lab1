@@ -31,10 +31,12 @@ in html
         <nav>
             <hr width= 50%/>
             <a href="index.php"><strong> <i>Home</i> </strong></a>
+            <a href = "projects.html">Projects</a>
             <a href = "about.html">About</a>
             <a href = "contact.html"> Contact</a>
+            
         </nav>
-        <br/><br/>
+        <br/>
         
         <main>
             
@@ -43,10 +45,10 @@ in html
             </figure>
             
             <div id="welcomeText">
-                Hello! <br/>
+                Greetings! <br/>
                 <p>Thank you for visiting my professional portfolio website.</p>
-                <p>I an a Software Engineer and have benn recently hired at the Acme Corporation</p>
-                <p>Feel free to contact me!</p>
+                <p>I an a Software Programming student at California State Univeristy, Monterey Bay</p>
+                <p>Feel free to contact me.</p>
                 <br/><br/>
                 
                 <em>"With ordinary talent and extraordinary <strong>perserverance</strong>, all things are attainable."</em><br/>
@@ -56,8 +58,8 @@ in html
        
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
-        <footer>
-            <hr>
+        <!--footer>
+            <!--<hr>
             CST370. 2017&copy; Valencia <br/>
             <strong>Disclamer:</strong> The information in this webpage is fictitous. <br />
             It is used for academic purposes only.
